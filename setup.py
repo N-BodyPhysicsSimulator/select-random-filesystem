@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='select-random-filesystem',
+setup(name='select_random_filesystem',
       version='1.0',
       description='Select a random file or directory from the filesystem.',
       author='Stephan Meijer',
